@@ -205,7 +205,7 @@ Token    | E0 | E1 | E2 | E3 | E4 | E5 | E6 | E7 | Shared
 
 ---
 
-## 📂 项目完整目录结构
+## 📂 项目训练完成后的完整目录结构
 
 ```text
 DeepSeek-Pro-Mini/
