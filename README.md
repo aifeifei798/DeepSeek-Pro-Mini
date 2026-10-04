@@ -79,7 +79,7 @@
 * **解法**：必须显式声明源与目标映射：
   ```python
   _tied_weights_keys = {"lm_head.weight": "embed.weight"}
-```
+  ```
   并在自定义模型中实现 `def tie_weights(self, *args, **kwargs)` 以兼容新版参数。
 
 ### 💥 天坑 3：SFT 提示词未 Mask 导致“复读机退化”
