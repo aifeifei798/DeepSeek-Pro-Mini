@@ -93,7 +93,7 @@
 ### 第 1 步：依赖与分词器就位
 
 ```bash
-git clone https://github.com/your-username/DeepSeek-Pro-Mini.git
+git clone https://github.com/aifeifei798/DeepSeek-Pro-Mini.git
 cd DeepSeek-Pro-Mini
 
 # 推荐 Python 3.10+，PyTorch 2.2+ (CUDA 12+)
